@@ -1,0 +1,7 @@
+# Ignore all files
+*
+
+# Except these
+!.gitignore
+!smart-contract.sol
+!README.md
